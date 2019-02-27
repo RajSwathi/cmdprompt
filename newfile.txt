@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9AED-942E
+
+ Directory of C:\Users\Admin\Desktop\Git
+
+02/27/2019  06:32 AM    <DIR>          .
+02/27/2019  06:32 AM    <DIR>          ..
+02/27/2019  06:32 AM                 0 newfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,529,331,712 bytes free
